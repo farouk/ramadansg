@@ -1,0 +1,71 @@
+sn,name,address,min,max,ten,odd,magic,weekends,daily,sahur,start,end,zohor,asar,others
+1,Al-Amin,"50 Telok Blangah Way, Singapore 098801",Weekdays  + Sun,Sat,,4:00  AM,,,,Yes,17-May,11-Jun,yes,yes,
+2,Al-Abrar,"192 Telok Ayer Street, Singapore 068635",,Daily,,3:00 AM,,,,Yes,17-May,14-Jun,,yes,
+3,Al-Falah,"22 Bideford Road, #01-01, Singapore 229650",,Daily,4:00  AM,,,,,Yes,17-May,12-Jun,yes,,
+4,Abdul Gaffoor,"41 Dunlop Street, Singapore 209369",,Daily,,4:30 AM,,,,Yes,17-May,14-Jun,,yes,5:15 PM - 6:00  PM
+5,Bencoolen,"51 Bencoolen Street, Singapore 189630",,Daily,,3:30 AM,,,,Yes,17-May,14-Jun,,yes,4:00  PM - 6:30 PM
+6,Burhani,"39 Hill Street, Singapore 179364",,,,,,,,,,,,,
+7,"Haji Muhammad Salleh(Palmer)","37 Palmer Road, Singapore 079424",,Daily,4:00  AM,,,,,Yes,17-May,12-Jun,yes,yes,
+8,Jamae Chulia,"218 South Bridge Road, Singapore 058767",,Daily,4:00  AM,,,,,Yes,17-May,14-Jun,,yes,
+9,Jamiyah Ar-Rabitah,"601 Tiong Bahru Road, Singapore 158787",,Daily,4:00  AM,,,,,Yes,17-May,11-Jun,yes,,
+10,Jamek Queenstown,"801 Margaret Drive, Singapore 149307",,Daily,4:30 AM,,,,,Yes,16-May,10-Jun,yes,,
+11,Kampong Delta,"10 Delta Avenue, Singapore 169831",Daily,,,,,,,,17-May,12-Jun,yes,,2:00 PM onwards
+12,"Moulana MohammedAli","80 Raffles Place, #B1-01, Singapore 048624",,Daily,,,3:30 AM,,,Yes,17-May,14-Jun,,yes,
+13,Mujahidin,"90 Stirling Road, Singapore 148952",,Daily,2:45 AM,,,,,Yes,17-May,14-Jun,yes,yes,
+14,Omar Kampong Melaka,"10 Keng Chow Street, Singapore 059607",,Daily,4:00  AM,,,,,Yes,17-May,14-Jun,,yes,
+15,"Abdul Hamid KampongPasiran","10 Gentle Road, Singapore 309194",,,,3:30 AM,,,,Yes,17-May,8-Jun,yes,,
+16,Al-Muttaqin,"5140  Ang Mo Kio Avenue 6, Singapore 569844",,,4:00  AM,,,,,Yes,17-May,14-Jun,,yes,
+17,An-Nahdhah,"9A Bishan Street 14, Singapore 579786",Weekdays,Weekends,3:30 AM,,,,,Yes,17-May,10-Jun,yes,yes,
+18,Angullia,"265 Serangoon Road, Singapore 218099",,,,,,,,,,,,,
+19,Ba'alwie,"2 Lewis Road, Singapore 258590",,,,,,,,,,,,,
+20,"Haji Mohd Salleh(Geylang)","245 Geylang Road, Singapore 389304",,Daily,,,,,,-,17-May,12-Jun,,yes,
+21,"Hajjah Rahimabi KebunLimau","6 Kim Keat Road, Singapore 328835",,,,,,,,,,,,,
+22,Hajjah Fatimah,"4001 Beach Road, Singapore 199584",,,,,,,,,,,,,
+23,Malabar,"471 Victoria Street, Singapore 198370",,Daily,4:00  AM,,,,,Yes,17-May,13-Jun,,yes,
+24,Muhajirin,"275 Braddell Road, Singapore 579704",,Daily,,3:30 AM,,,,Yes,17-May,12-Jun,,yes,
+25,Omar Salmah,"411 Jalan Mashhor, Singapore 299173",,,,,,,,,,,,,
+26,Sultan,"3 Muscat Street, Singapore 198833",,Daily,3:30 AM,,,,,Yes,17-May,12-Jun,,,
+27,Tasek Utara,"46 Bristol Road, Singapore 219852",,Daily,,,,3:30 AM,,No,17-May,13-Jun,,,6:00  PM - 7:15 PM
+28,Al-Istighfar,"2 Pasir Ris Walk, Singapore 518239",Daily,,,,,,3:30 AM,Yes,17-May,10-Jun,,yes,
+29,Al-Istiqamah,"2 Serangoon North Avenue 2, Singapore 555876",Daily,,4:00  AM,,,,,Yes,17-May,10-Jun,yes,,
+30,Al-Islah,"30 Punggol Field, Singapore 828812",Daily,,3:30 AM,,,,,Yes,17-May,10-Jun,,yes,
+31,Alkaff Kampung Melayu,"200 Bedok Reservoir Road, Singapore 479221",,Daily,,,,,4:00  AM,Yes,17-May,13-Jun,,,3:00 PM
+32,Al-Mawaddah,"151 Compassvale Bow, Singapore 544997",,,3:45 AM,,,,,Yes,17-May,10-Jun,,yes,
+33,Darul Ghufran,"503 Tampines Avenue 5, Singapore 529651",,Daily,3:45 AM,,,,,Yes,17-May,10-Jun,,yes,"2:00 PM (OwnContainer) After Asar (Public)"
+34,En-Naeem,"120 Tampines Road, Singapore 535136",,,3:30 AM,,,,,Yes,17-May,12-Jun,yes,,
+35,Haji Yusoff,"2 Hillside Drive, Singapore 548920",,Daily,4:00  AM,,,,,Yes,17-May,10-Jun,,yes,
+36,Ahmad Ibrahim,"15 Jalan Ulu Seletar, Singapore 769227",,,4:00  AM,,,,,Yes,17-May,14-Jun,yes,,
+37,Al-Huda,"34 Jalan Haji Alias, Singapore 268534",,,3:00 AM,,,,,Yes,-,-,-,-,
+38,Al-Iman,"10 Bukit Panjang Ring Road, Singapore 679943",,,3:30 AM,,,,,Yes,17-May,11-Jun,,yes,
+39,An-Nur,"6 Admiralty Road, Singapore 739983",,,4:00  AM,,,,,Yes,15-May,13-Jun,,,3:00 PM
+40,Assyafaah,"1 Admiralty Lane, Singapore 757620",,Daily,3:30 AM,,,,,Yes,17-May,8-Jun,,yes,
+41,Darul Makmur,"950 Yishun Avenue 2, Singapore 769099",,Daily,4:00  AM,,,,,Yes,17-May,14-Jun,yes,,
+42,"Petempatan MelayuSembawang","27B Jalan Mempurong, Singapore 759055",,,,,,,3:00 AM,Yes,17-May,14-Jun,yes,,`
+43,Yusof Ishak,"10 Woodlands Drive 17, Singapore 737740",,,4:00  AM,,,,,Yes,17-May,14-Jun,,yes,
+44,Abdul Aleem Siddique,"90 Lorong K Telok Kurau, Singapore 425723",,Daily,3:30 AM,,,,,Yes,17-May,7-Jun,,,Time Unavailable
+45,Al Abdul Razak,"30 Jalan Ismail, Singapore 419285",,Daily,4:00  AM,,,,,Yes,17-May,12-Jun,,yes,
+46,Al-Taqua,"11A Jalan Bilal, Singapore 468862",,,3:30 AM,,,,,Yes,17-May,10-Jun,,yes,
+47,Alkaff Upper Serangoon,"66 Pheng Geck Avenue, Singapore 348261",,,,,,,,,,,,,
+48,Al-Ansar,"155 Bedok North Avenue 1, Singapore 469751",,,,,,,4:00  AM,Yes,17-May,13-Jun,,yes,
+49,Darul Aman,"1 Jalan Eunos, Singapore 419493",,,3:30 AM,,,,,Yes,17-May,13-Jun,yes,,
+50,Kampung Siglap,"451 Marine Parade Road, Singapore 449283",,Daily,4:00  AM,,,,,Yes,17-May,5-Jun,,yes,
+51,Kassim,"450 Changi Road, Singapore 419877",Daily,,4:30 AM,,,,,Yes,17-May,10-Jun,,yes,
+52,Khalid,"136 Joo Chiat Road, Singapore 427434",,Daily,3:30 AM,,,,,Yes,17-May,14-Jun,,yes,
+53,Khadijah,"583 Geylang Road, Singapore 389522",,Daily,,,,,Open,No,17-May,13-Jun,,yes,
+54,Mydin,"67 Jalan Lapang, Singapore 419007",,,3:30 AM,,,,,Yes,17-May,11-Jun,,,3:00 PM
+55,Sallim Mattar,"1 Mattar Road, Singapore 387713",,,,,,,,,,,,,
+56,Wak Tanjong,"25 Paya Lebar Road, Singapore 409004",,Daily,,3:45 AM,,,,Yes,-,-,-,-,-
+57,Al-Firdaus,"11 Jalan Ibadat, Singapore 698955",,,,,,,,,,,,,
+58,Ahmad,"2 Lor Sarhad, Singapore 119173",Daily,,,,,,,-,No Date,No Date,yes,,
+59,Al-Mukminin,"271 Jurong East Street 21, Singapore 609603",,Daily,3:45 AM,,,,,Yes,17-May,11-Jun,,yes,Fri: After Jumaat & Asar
+60,AlKhair,"1 Teck Whye Crescent, Singapore 688847",,,4:00  AM,,,,,Yes,17-May,13-Jun,,yes,
+61,Ar-Raudhah,"30 Bukit Batok East Avenue 2, Singapore 659919",,,,,,,,,,,,,
+62,Assyakirin,"550  Yung An Road, Singapore  618617",,,3:45 AM,,,,,Yes,17-May,10-Jun,,yes,
+63,Darussalam,"3002 Commonwealth Avenue West, Singapore 129579",,,3:45 AM,,,,,Yes,17-May,13-Jun,yes,,
+64,Hang Jebat,"100 Jalan Hang Jebat, Singapore 139520",Daily,,,,,,,,17-May,14-Jun,yes,,1:30 PM - 2:30 PM
+65,Hussain Sulaiman,"394 Pasir Panjang Road, Singapore 118730",,,,,,,,,,,,,
+66,Hasanah,"492 Teban Gardens Road, Singapore 608878",,Daily,4:00  AM,,,,,Yes,17-May,10-Jun,yes,yes,
+67,Tentera Diraja,"81 Clementi Road, Singapore 129797",,,,,,,,,,,,,
+68,Pusara Aman,"11 Lim Chu Kang Road, Singapore 719452",,,,,,,,,,,,,
+69,Pulau Bukom,"Pulau Bukom, Singapore 903808",,,,,,,,,,,,,
+70,Maarof,"20 Jurong West Street 26, Singapore 648125",Daily,,4:00  AM,,,,,Yes,17-May,12-Jun,,,
